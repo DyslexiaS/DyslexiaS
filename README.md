@@ -18,12 +18,15 @@ Currently, I also help companies with AI transformation, internal AI automation,
 
 ## 🛠 Products
 
-### [Finmo AI](finmoai.diveinvest.net)
+### [Finmo AI](https://finmoai.diveinvest.net)
 An AI-powered platform focused on intelligent workflows, automation, and practical AI integrations for modern teams and creators.
+<img width="1696" height="1056" alt="image" src="https://github.com/user-attachments/assets/9e6b0926-e72b-4e3d-9092-675a3da6edd0" />
 
 
-### [Femo Conf](finmoconf.diveinvest.net)
+### [Finmo Conf](https://finmoconf.diveinvest.net)
 A conference and event-related product designed to improve communication, organization, and collaboration experiences.
+<img width="1567" height="1159" alt="image" src="https://github.com/user-attachments/assets/92e2c59a-0ec0-4e85-82ae-ca9996f9aca9" />
+
 
 ## ⚡ Tech Stack
 
